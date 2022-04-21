@@ -10,7 +10,7 @@
 즉, sys.stdin.readline() 은 sys 라는 모듈의 파일 객체 stdin 의 메소드 중 readline() 을 사용한다는 의미이다
 readline() 은 입력을 읽을 때 한 번에 한 줄씩 읽는데, 이 말은 여러 줄의 입력이 있을 때 한 줄을 읽고 나면 그 다음 줄을 가리킨다는 뜻
 ```
-출처: https://velog.io/@ecvheo1/%EC%9E%85%EB%A0%A5-%EB%B0%9B%EB%8A%94-%EB%B0%A9%EB%B2%95-sys.stdin.readline
+출처: https://velog.io/@ecvheo1/%EC%9E%85%EB%A0%A5-%EB%B0%9B%EB%8A%94-%EB%B0%A9%EB%B2%95-sys.stdin.readline, https://developeryuseon.tistory.com/90
 
 
 ### 📌 정수 입력받을 땐 int로 변환 필요
