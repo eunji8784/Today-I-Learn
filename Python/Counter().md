@@ -58,3 +58,5 @@ print(mc)
 # [('blue', 3), ('red', 2), ('green', 1)]
 # [('blue', 3), ('red', 2)]
 ```
+
+참고: https://codepractice.tistory.com/71
