@@ -72,3 +72,5 @@ print(type(min(a, b)))
 ## 📌 max()
 + 인수로 받은 자료형 내에서 최대값을 찾아서 반환하는 함수
 + mix() 함수와 사용법 같음
+
+출처: https://blockdmask.tistory.com/411
